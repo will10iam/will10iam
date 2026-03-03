@@ -1,10 +1,22 @@
-### E aí, blz ?   Eu sou o William Berbet!
+## 👋 Olá! Eu sou o William Berbet
+
+💻 Desenvolvedor Front-End focado em React e Next.js  
+🎯 Buscando minha primeira oportunidade profissional na área  
+📚 Estudante de Análise e Desenvolvimento de Sistemas  
+
+---
 
 <div align="center">
   <a href="https://github.com/will10iam">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=will10iam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will10iam&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=will10iam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will10iam&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
+
+---
+
+### 🚀 Tecnologias que utilizo
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-Js"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Will-Ts"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -14,7 +26,7 @@
   <img align="center" alt="Will-Node"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Will-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Will-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="right" alt="Rafa-pic" height="150" src="https://i.pinimg.com/originals/78/5d/d2/785dd2e0adf64536c798633982466b75.jpg">
+  <img align="right" alt="Kratos-pic" height="150" src="https://i.pinimg.com/originals/78/5d/d2/785dd2e0adf64536c798633982466b75.jpg">
 </div>
 
 ##
