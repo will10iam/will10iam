@@ -1,17 +1,8 @@
 ## 👋 Olá! Eu sou o William Berbet
 
 💻 Desenvolvedor Front-End focado em React e Next.js  
-🎯 Buscando minha primeira oportunidade profissional na área  
+👨🏼‍💻 Atuando como Analista de Suporte na Gplus Sistemas  
 📚 Estudante de Análise e Desenvolvimento de Sistemas  
-
----
-
-<div align="center">
-  <a href="https://github.com/will10iam">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=will10iam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will10iam&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
 
 ---
 
